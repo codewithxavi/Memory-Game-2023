@@ -118,7 +118,7 @@ ul li:hover {
   display: flex;
   flex-wrap: wrap;
   flex-direction: row;
-  justify-content: space-between;
+  justify-content: space-evenly;
   align-items: center;
   padding: 1rem;
 }
@@ -368,6 +368,14 @@ details[open] summary {
 
 .paginador button.activo {
   font-weight: bold;
+}
+
+ /* CSS for the footer */
+ .footer {
+  padding: 20px;
+  text-align: center;
+  font-family: Arial, sans-serif;
+  color: rgba(255, 235, 235, 0.849);
 }
 
 
