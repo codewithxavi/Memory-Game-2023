@@ -30,7 +30,7 @@ body {
   display: flex;
   font-family: sans-serif;
   flex-direction: column;
-  background-image: url(../assets/img/aron-van-de-pol.jpg);
+  background-image: url(../assets/img/aron-van-de-pol.webp);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: bottom 0 right 0;
